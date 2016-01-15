@@ -2,7 +2,7 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': '打开/关闭异次元通道'
+      'label': 'Burst link!'
       'command': 'AtomMiku:toggle'
     }
   ]
@@ -13,7 +13,7 @@
       'label': 'atom-miku'
       'submenu': [
         {
-          'label': '打开/关闭异次元通道'
+          'label': 'Burst link!'
           'command': 'AtomMiku:toggle'
         }
       ]
